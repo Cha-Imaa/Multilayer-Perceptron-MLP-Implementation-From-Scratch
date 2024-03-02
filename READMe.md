@@ -1,5 +1,5 @@
 # Multilayer-Perceptron-MLP-Implementation-From-Scratch
-# Hello
+
 # MLP From Scratch
 
 ## Overview
